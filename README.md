@@ -50,10 +50,10 @@ src/
  
 ##  Features  
 
-### 📌 Sidebar Navigation  
+###   Sidebar Navigation  
 - Sections for **Dashboard, eCommerce, Projects, Blog**, and more.  
 
-### 📌 Stats Overview Cards  
+###   Stats Overview Cards  
 - Key metrics including:  
   -  Views  
   -  Visits  
@@ -61,20 +61,20 @@ src/
   -  Active Users  
 - Includes **trend indicators** for insights.  
 
-### 📌 Charts Section  
+###   Charts Section  
 -  **Line Chart** – User growth over time  
 -  **Pie Chart** – Traffic distribution by location  
 -  **Bar Chart** – Traffic by device  
 
-### 📌 Right Sidebar  
+###   Right Sidebar  
 - Notifications  
 - Activity feed  
 - Contacts list  
 
-### 📌 Responsive Layout  
+###   Responsive Layout  
 - Fully optimized for **desktop and mobile devices**.  
 
-### 📌 Clean UI/UX  
+###   Clean UI/UX  
 - Built with **Tailwind CSS utilities** ensuring:  
   - Consistent spacing  
   - Modern color palette  
@@ -82,7 +82,7 @@ src/
 
 ---
 
-## ⚡ Getting Started  
+##  Getting Started  
 
 Follow these steps to set up the project locally:  
 
