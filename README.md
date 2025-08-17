@@ -1,25 +1,26 @@
-📊 Dashboard UI Assignment – React + Tailwind CSS
-This repository contains the Dashboard UI built as part of the internship assignment. The project is developed using React (TypeScript) and styled with Tailwind CSS, ensuring a modern, clean, and fully responsive interface.
+#  Dashboard UI Assignment – React + Tailwind CSS  
 
-The dashboard replicates the given design and includes stats cards, interactive charts, traffic insights, notifications, and activity feed, structured into modular React components for maintainability.
+This repository contains the **Dashboard UI** built as part of the internship assignment.  
+The project is developed using **React (TypeScript)** and styled with **Tailwind CSS**, ensuring a modern, clean, and fully responsive interface.  
 
-🚀 Tech Stack
-React (TypeScript) – UI development with type safety
+The dashboard replicates the given design and includes **stats cards, interactive charts, traffic insights, notifications, and activity feed**, structured into modular React components for maintainability.  
 
-Tailwind CSS – Utility-first styling for responsive layouts
+---
 
-Recharts – For Line, Pie, and Bar charts visualization
+##  Tech Stack  
 
-Lucide Icons / React Icons – For navigation & UI icons
+- **React (TypeScript)** – UI development with type safety  
+- **Tailwind CSS** – Utility-first styling for responsive layouts  
+- **Recharts** – For Line, Pie, and Bar charts visualization  
+- **Lucide Icons / React Icons** – For navigation & UI icons  
+- **Vite** – Fast bundler for development & production  
+- **Vercel** – Deployment platform  
 
-Vite – Fast bundler for development & production
+---
 
-Vercel – Deployment platform
+##  Project Structure  
 
-📂 Project Structure
-pgsql
-Copy
-Edit
+```bash
 src/
  ├── components/
  │    ├── charts/                 # Charts components
@@ -44,70 +45,91 @@ src/
  ├── tailwind.config.js           # Tailwind config
  ├── postcss.config.js            # PostCSS config
  └── eslint.config.js             # ESLint config
-✨ Features
-📌 Sidebar Navigation – With sections for Dashboard, eCommerce, Projects, Blog, etc.
+ ```
+ ---
+ 
+##  Features  
 
-📌 Stats Overview Cards – Key metrics like Views, Visits, New Users, Active Users with trends
+### 📌 Sidebar Navigation  
+- Sections for **Dashboard, eCommerce, Projects, Blog**, and more.  
 
-📌 Charts Section –
+### 📌 Stats Overview Cards  
+- Key metrics including:  
+  -  Views  
+  -  Visits  
+  -  New Users  
+  -  Active Users  
+- Includes **trend indicators** for insights.  
 
-Line Chart → User growth over time
+### 📌 Charts Section  
+-  **Line Chart** – User growth over time  
+-  **Pie Chart** – Traffic distribution by location  
+-  **Bar Chart** – Traffic by device  
 
-Pie Chart → Traffic distribution by location
+### 📌 Right Sidebar  
+- Notifications  
+- Activity feed  
+- Contacts list  
 
-Bar Chart → Traffic by device
+### 📌 Responsive Layout  
+- Fully optimized for **desktop and mobile devices**.  
 
-📌 Right Sidebar – Notifications, activities, and contacts list
+### 📌 Clean UI/UX  
+- Built with **Tailwind CSS utilities** ensuring:  
+  - Consistent spacing  
+  - Modern color palette  
+  - Accessible typography  
 
-📌 Responsive Layout – Optimized for desktop and mobile devices
+---
 
-📌 Clean UI/UX – Tailwind CSS utilities for consistent spacing, colors, and typography
+## ⚡ Getting Started  
 
-⚡ Getting Started
-Clone the repository
+Follow these steps to set up the project locally:  
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/React-User-Page.git
-cd React-User-Page
-Install dependencies
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/PrabhavNasa/React-User-Page-.git
+cd React-User-Page-
+```
 
-bash
-Copy
-Edit
+### 2️⃣ Install dependencies
+```bash
 npm install
-Start development server
+```
 
-bash
-Copy
-Edit
+### 3️⃣ Start the development server
+```bash
 npm run dev
-Open in browser
+```
 
-arduino
-Copy
-Edit
+### 4️⃣ Open in your browser
+```bash
 http://localhost:5173
-🌍 Deployment
-🔗 Hosted Link → https://react-user-page.vercel.app/
-📂 GitHub Repo → React-User-Page
+```
 
-🎨 UI Preview
+---
 
-📈 Future Enhancements
-Add dark mode support 🌙
+##  Deployment  
 
-Integrate real API data instead of static data
+The project is deployed using **Vercel** for fast and reliable hosting.  
 
-Add filters & date range selection for analytics
+  **Live Demo:** [React User Page](https://react-user-page.vercel.app/)  
+  **GitHub Repository:** [React-User-Page](https://github.com/PrabhavNasa/React-User-Page-.git)
 
-Enable data export (CSV/PDF)
+ ---
+ 
+ ##  UI Preview  
 
-Add authentication & user roles
+![Dashboard UI Preview](<img width="1470" height="797" alt="Screenshot 2025-08-17 at 3 38 07 PM" src="https://github.com/user-attachments/assets/064dd1b1-b8cf-482d-9a7b-6bb4a8f31be2" />
+)  
 
-👨‍💻 Author
-Prabhav Nasa
-📧 Email: nasaprabhav@gmail.com
-🔗 GitHub: PrabhavNasa
-🔗 LinkedIn: linkedin.com/in/prabhavnasa23
+---
+
+
+
+## Author  
+
+**Prabhav Nasa**  
+📧 Email: [nasaprabhav@gmail.com](mailto:nasaprabhav@gmail.com)  
+🔗 GitHub: [PrabhavNasa](https://github.com/PrabhavNasa)  
+🔗 LinkedIn: [prabhavnasa23](https://www.linkedin.com/in/prabhavnasa23)
