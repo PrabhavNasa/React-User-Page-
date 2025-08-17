@@ -121,6 +121,5 @@ The project is deployed using **Vercel** for fast and reliable hosting.
 ## Author  
 
 **Prabhav Nasa**  
-📧 Email: [nasaprabhav@gmail.com](mailto:nasaprabhav@gmail.com)  
-🔗 GitHub: [PrabhavNasa](https://github.com/PrabhavNasa)  
-🔗 LinkedIn: [prabhavnasa23](https://www.linkedin.com/in/prabhavnasa23)
+  Email: [nasaprabhav@gmail.com](mailto:nasaprabhav@gmail.com)  
+  LinkedIn: [prabhavnasa23](https://www.linkedin.com/in/prabhavnasa23)
