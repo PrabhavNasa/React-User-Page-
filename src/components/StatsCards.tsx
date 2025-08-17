@@ -18,13 +18,13 @@ const StatsCard: React.FC<StatsCardProps> = ({
 }) => {
   return (
     <div className={`${bgColor} rounded-xl p-6 flex items-center justify-between`}>
-      {/* Left side: title + value */}
+      {/* Left side: */}
       <div>
         <p className="text-gray-600 text-sm mb-1">{title}</p>
         <p className="text-2xl font-bold text-gray-900">{value}</p>
       </div>
 
-      {/* Right side: change + arrow (always black) */}
+      {/* Right side:  */}
       <div className="flex items-center space-x-1">
         <span className="text-sm font-medium text-black">{change}</span>
         {isPositive ? (
