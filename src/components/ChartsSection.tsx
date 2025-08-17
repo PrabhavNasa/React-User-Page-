@@ -7,7 +7,7 @@ import TrafficList from './charts/TrafficList';
 const ChartsSection: React.FC = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-      {/* Total Users Chart */}
+
       <div className="lg:col-span-2 bg-white rounded-xl p-6 shadow-sm border border-gray-100">
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center space-x-4">
@@ -28,13 +28,13 @@ const ChartsSection: React.FC = () => {
         <LineChart />
       </div>
 
-      {/* Traffic by Website */}
+
       <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
         <h3 className="text-lg font-semibold text-gray-800 mb-4">Traffic by Website</h3>
         <TrafficList />
       </div>
 
-      {/* 👇 New row for Traffic by Device & Location (2 cols inside 3-col grid) */}
+
       <div className="lg:col-span-3 grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
           <h3 className="text-lg font-semibold text-gray-800 mb-4">Traffic by Device</h3>
@@ -47,7 +47,7 @@ const ChartsSection: React.FC = () => {
         </div>
       </div>
 
-      {/* Marketing & SEO (full width next row) */}
+
       <div className="lg:col-span-3 bg-white rounded-xl p-6 shadow-sm border border-gray-100">
         <h3 className="text-lg font-semibold text-gray-800 mb-4">Marketing & SEO</h3>
         <div className="text-center py-8">
