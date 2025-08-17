@@ -118,15 +118,6 @@ The project is deployed using **Vercel** for fast and reliable hosting.
 
  ---
  
- ##  UI Preview  
-
-![Dashboard UI Preview](<img width="1470" height="797" alt="Screenshot 2025-08-17 at 3 38 07 PM" src="https://github.com/user-attachments/assets/064dd1b1-b8cf-482d-9a7b-6bb4a8f31be2" />
-)  
-
----
-
-
-
 ## Author  
 
 **Prabhav Nasa**  
